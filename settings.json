@@ -5,13 +5,12 @@
     "terminal.external.osxExec": "iTerm.app",
     "git.autofetch": true,
     "window.zoomLevel": 2,
-    "editor.fontFamily": "\"Fira Code\", Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "\"Fira Code\", 'Courier New', monospace",
     "git.confirmSync": false,
     "dart.showTodos": false,
     "dart.runPubGetOnPubspecChanges": "never",
     "editor.accessibilitySupport": "off",
     "dart.flutterHotReloadOnSave": "never",
-    "dart.flutterSdkPath": "/Users/vlad.lopata/soft/flutter",
     "editor.formatOnSave": true,
     "dart.debugExternalPackageLibraries": true,
     "dart.debugSdkLibraries": true,
@@ -45,5 +44,5 @@
     "editor.rulers": [
         80
     ],
-    "editor.wordWrap": "on",
+    "editor.wordWrap": "on"
 }

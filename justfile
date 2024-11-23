@@ -1,19 +1,19 @@
 get:
-	melos bootstrap
+	flutter pub get
 
 br:
-	melos build
+	dart run build_runner build
 brn: 
-	melos build --no-select
+	dart run build_runner build -d
 
 bw:
 	dart run build_runner watch -d
 clean:
-	melos clean
+	flutter clean
 up:
 	flutter pub upgrade --major-versions
 test:
-	melos test_all --no-select
+	flutter test
 
 
 pod:
